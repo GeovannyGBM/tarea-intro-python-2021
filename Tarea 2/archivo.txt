@@ -1,0 +1,5 @@
+La masa total de los planetas es: 2.66831431e+27 kg.
+
+Los números pares en la lista son: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24]
+
+Planetas ordenados: [['Mercurio', 3.302e+23], ['Marte', 6.4191e+23], ['Venus', 4.869e+24], ['Tierra', 5.9742e+24], ['Urano', 8.6849e+25], ['Neptuno', 1.0244e+26], ['Saturno', 5.6851e+26], ['Júpiter', 1.8987e+27]]
